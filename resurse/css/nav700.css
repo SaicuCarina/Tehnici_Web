@@ -1,0 +1,8 @@
+#carte{
+    display: block;
+}
+
+#carte>img{
+    height: var(--inaltime-meniu);
+    width: auto;
+}
